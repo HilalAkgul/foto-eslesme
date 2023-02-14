@@ -15,6 +15,7 @@ const kartTemplate = `
     </div>
 `;
 
+
 let randomNum = function(){
     let randomArray = [];
     for (let i = 0; i < 8; i++){
